@@ -2,6 +2,10 @@
 class.AActor.image=ppl2.png
 class.C.image=snowman.png
 class.MyWorld.image=bomb.png
+<<<<<<< HEAD
+=======
+class.yeah.image=cactus.png
+>>>>>>> e6f22f3eb6b97a7eddbc1e45534973cc967289bb
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -31,7 +35,11 @@ target1.width=80
 target1.x=0
 target1.y=0
 target2.height=50
+<<<<<<< HEAD
 target2.name=AActor
+=======
+target2.name=yeah
+>>>>>>> e6f22f3eb6b97a7eddbc1e45534973cc967289bb
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
